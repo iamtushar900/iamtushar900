@@ -1,3 +1,4 @@
+[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)]
 <h1 align="center">Hi 👋, I'm Tushar Ranjan Mallick</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <marquee>Welcome To My GitHub Profile</marquee>
