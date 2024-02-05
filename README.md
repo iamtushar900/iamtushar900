@@ -1,6 +1,6 @@
 <img src="https://webcoder.co.in/wp-content/uploads/2021/04/website.gif"/>
 <h1 align="center">Hi 👋, I'm Tushar Ranjan Mallick</h1>
-<h3 align="center">A Software Developer of KIIT Digital</h3>
+<h3 align="center">A Software Developer at KIIT Digital</h3>
 <marquee>Welcome To My GitHub Profile</marquee>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtushar900&label=Profile%20views&color=0e75b6&style=flat" alt="iamtushar900" /> </p>
